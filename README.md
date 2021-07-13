@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Card screenshot](images\screenshot.png)
+![Card screenshot](https://raw.githubusercontent.com/SatwikModi/Stats-preview-card-components/main/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/SatwikModi/Stats-preview-card-components)
+- Live Site URL: [Live Site](https://satwikmodi.github.io/Stats-preview-card-components/)
 
 ## My process
 
